@@ -32,6 +32,9 @@ function App() {
       <h1 className="text-5xl text-mono text-center text-bold mb-4">
         BCT - Diabetes Prediction
       </h1>
+      <h2 className="text-2xl text-mono text-center text-bold mb-4">
+        Created by Sayan Biswas (SEM-4 Roll-19 CSE)
+      </h2>
       {data && (
         <div className="alert alert-info shadow-lg mb-3">
           <div>
